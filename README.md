@@ -6,9 +6,9 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Yazılım Akademisi 
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-'''
+```
 git clone https://github.com/nesliyetik/kodluyoruzilkrepo.git
-'''
+```
 
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
